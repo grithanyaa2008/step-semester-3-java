@@ -1,5 +1,3 @@
-package week05.assignment.p1;
-
 import java.util.LinkedHashMap;
 import java.util.Map;
 
