@@ -2,7 +2,7 @@ public class LibraryMemberBean {
     private String membershipId;
     private String name;
     private boolean premiumMember;
-    private String securityAnswer; // Write-only
+    private String securityAnswer; // Write-only, but used for verification
 
     public LibraryMemberBean() {}
 
