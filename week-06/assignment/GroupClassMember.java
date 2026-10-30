@@ -5,8 +5,6 @@ public class GroupClassMember extends GymMember {
         super(memberId, monthlyFee);
         this.className = className;
     }
-
-    // Problem 5: Constructor for auto-generated ID
     public GroupClassMember(int monthlyFee, String className) {
         super(monthlyFee);
         this.className = className;
