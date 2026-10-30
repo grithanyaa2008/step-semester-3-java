@@ -1,5 +1,3 @@
-package week06.assignment;
-
 public class EliteMember extends PremiumMember {
     private String lockerNumber;
 

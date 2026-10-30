@@ -1,7 +1,4 @@
-package week06.assignment;
-
 import java.util.Arrays;
-
 public class GymMember {
     private static int counter = 2000;
     

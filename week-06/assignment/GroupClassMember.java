@@ -1,5 +1,3 @@
-package week06.assignment;
-
 public class GroupClassMember extends GymMember {
     private String className;
 

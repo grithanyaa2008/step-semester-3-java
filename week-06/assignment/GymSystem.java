@@ -1,5 +1,3 @@
-package week06.assignment;
-
 public class GymSystem {
 
     // Problem 1: Batch Sign-up
